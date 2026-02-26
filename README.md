@@ -1,7 +1,7 @@
-🤖 Simple Intent-Based Chatbot
+Simple Intent-Based Chatbot
 A Python-based conversational AI that uses Machine Learning to categorize user queries and provide relevant responses. This project demonstrates a complete NLP pipeline: from data preprocessing and vectorization to model training and deployment.
 
-🚀 Overview
+Overview
 This chatbot uses a Bag-of-Words approach combined with Logistic Regression to understand user "intents." It reads from a structured JSON file, learns patterns, and saves the trained brain as a serialized file for fast inference.
 
 Key Features
